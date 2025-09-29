@@ -31,14 +31,23 @@ Bootstrap 5 - CSS framework
 TheCocktailDB API - Cocktail database
 
 cocktail-recipe-finder/
+
 ├── app.js                  # Express server and routes
+
 ├── package.json            # Dependencies
+
 ├── views/
+
 │   ├── index.ejs          # Home page
+
 │   ├── results.ejs        # Search results
+
 │   └── detail.ejs         # Recipe details
+
 └── public/
+
     └── styles.css         # Custom styles
+    
 
 Prerequisites
 
