@@ -54,3 +54,21 @@ Prerequisites
 Node.js (v14 or higher)
 npm (v6 or higher)
 
+Setup Instructions 
+
+Clone the repository: 
+
+   git clone https://github.com/your-username/CS-312-MiniProject-2.git 
+   
+   cd CS-312-MiniProject-2/cocktail-recipe-finder 
+   
+Install dependencies:
+
+   npm install
+   
+Start the server:
+
+   npm start
+   
+Open your browser to http://localhost:3000
+
